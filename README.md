@@ -1,0 +1,1 @@
+# Data-analyzer-with-FIN-algorithm
